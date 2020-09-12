@@ -1,3 +1,3 @@
 display_rainbow = (['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']);
 
-puts display_rainbow[0]
+puts display_rainbow[1]
